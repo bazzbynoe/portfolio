@@ -55,7 +55,7 @@ export default function Hero() {
                 <FaLinkedin className="text-3xl" />
                 </a>
                 <a
-                href="https://github.com/YOUR-USERNAME"
+                href="https://github.com/bazzbynoe"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
